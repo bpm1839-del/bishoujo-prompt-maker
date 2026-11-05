@@ -1,0 +1,12 @@
+{
+  "Animagine XL 3.1": {
+    "prefix": "1girl, solo",
+    "suffix": "masterpiece, best quality, very aesthetic, absurdres",
+    "negative": "lowres, worst quality, low quality, bad anatomy, bad hands, text, watermark, signature, extra digits, jpeg artifacts"
+  },
+  "汎用 SDXL（手動調整用）": {
+    "prefix": "1girl, solo",
+    "suffix": "",
+    "negative": "low quality, text, watermark"
+  }
+}

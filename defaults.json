@@ -1,0 +1,6131 @@
+[
+  {
+    "id": "p0001",
+    "tab": "キャラクター",
+    "category": "人数",
+    "ja": "一人の女性",
+    "en": "1girl",
+    "target": "positive",
+    "group": "人数",
+    "weight": 1.0
+  },
+  {
+    "id": "p0002",
+    "tab": "キャラクター",
+    "category": "人数",
+    "ja": "単独",
+    "en": "solo",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0003",
+    "tab": "キャラクター",
+    "category": "人数",
+    "ja": "二人の女性",
+    "en": "2girls",
+    "target": "positive",
+    "group": "人数",
+    "weight": 1.0
+  },
+  {
+    "id": "p0004",
+    "tab": "キャラクター",
+    "category": "人数",
+    "ja": "三人の女性",
+    "en": "3girls",
+    "target": "positive",
+    "group": "人数",
+    "weight": 1.0
+  },
+  {
+    "id": "p0005",
+    "tab": "キャラクター",
+    "category": "人数",
+    "ja": "複数の女性",
+    "en": "multiple girls",
+    "target": "positive",
+    "group": "人数",
+    "weight": 1.0
+  },
+  {
+    "id": "p0006",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "黒髪",
+    "en": "black hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0007",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "茶髪",
+    "en": "brown hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0008",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "金髪",
+    "en": "blonde hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0009",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "白髪",
+    "en": "white hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0010",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "銀髪",
+    "en": "silver hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0011",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "灰色髪",
+    "en": "grey hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0012",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "赤髪",
+    "en": "red hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0013",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "青髪",
+    "en": "blue hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0014",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "水色髪",
+    "en": "light blue hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0015",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "紺髪",
+    "en": "dark blue hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0016",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "緑髪",
+    "en": "green hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0017",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "ピンク髪",
+    "en": "pink hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0018",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "紫髪",
+    "en": "purple hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0019",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "オレンジ髪",
+    "en": "orange hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0020",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "淡い紫髪",
+    "en": "lavender hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0021",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "栗色髪",
+    "en": "auburn hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0022",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "多色髪",
+    "en": "multicolored hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0023",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "グラデーション髪",
+    "en": "gradient hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0024",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "ツートン髪",
+    "en": "two-tone hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0025",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "メッシュ",
+    "en": "streaked hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0026",
+    "tab": "キャラクター",
+    "category": "髪の長さ",
+    "ja": "極短髪",
+    "en": "very short hair",
+    "target": "positive",
+    "group": "髪の長さ",
+    "weight": 1.0
+  },
+  {
+    "id": "p0027",
+    "tab": "キャラクター",
+    "category": "髪の長さ",
+    "ja": "短髪",
+    "en": "short hair",
+    "target": "positive",
+    "group": "髪の長さ",
+    "weight": 1.0
+  },
+  {
+    "id": "p0028",
+    "tab": "キャラクター",
+    "category": "髪の長さ",
+    "ja": "中長髪",
+    "en": "medium hair",
+    "target": "positive",
+    "group": "髪の長さ",
+    "weight": 1.0
+  },
+  {
+    "id": "p0029",
+    "tab": "キャラクター",
+    "category": "髪の長さ",
+    "ja": "長髪",
+    "en": "long hair",
+    "target": "positive",
+    "group": "髪の長さ",
+    "weight": 1.0
+  },
+  {
+    "id": "p0030",
+    "tab": "キャラクター",
+    "category": "髪の長さ",
+    "ja": "超長髪",
+    "en": "very long hair",
+    "target": "positive",
+    "group": "髪の長さ",
+    "weight": 1.0
+  },
+  {
+    "id": "p0031",
+    "tab": "キャラクター",
+    "category": "髪の長さ",
+    "ja": "床まで届く髪",
+    "en": "floor-length hair",
+    "target": "positive",
+    "group": "髪の長さ",
+    "weight": 1.0
+  },
+  {
+    "id": "p0032",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "ボブ",
+    "en": "bob cut",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0033",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "姫カット",
+    "en": "hime cut",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0034",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "ポニーテール",
+    "en": "ponytail",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0035",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "高いポニーテール",
+    "en": "high ponytail",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0036",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "低いポニーテール",
+    "en": "low ponytail",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0037",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "横結び",
+    "en": "side ponytail",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0038",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "ツインテール",
+    "en": "twintails",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0039",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "低いツインテール",
+    "en": "low twintails",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0040",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "三つ編み",
+    "en": "braid",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0041",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "一本三つ編み",
+    "en": "single braid",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0042",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "二本三つ編み",
+    "en": "twin braids",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0043",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "横三つ編み",
+    "en": "side braid",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0044",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "お団子",
+    "en": "hair bun",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0045",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "二つお団子",
+    "en": "double bun",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0046",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "ハーフアップ",
+    "en": "half updo",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0047",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "編み込み冠",
+    "en": "crown braid",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0048",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "ドリル髪",
+    "en": "drill hair",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0049",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "縦ロール",
+    "en": "ringlets",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0050",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "ウェーブ髪",
+    "en": "wavy hair",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0051",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "くせ毛",
+    "en": "messy hair",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0052",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "直毛",
+    "en": "straight hair",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0053",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "巻き髪",
+    "en": "curly hair",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0054",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "外ハネ",
+    "en": "flipped hair",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0055",
+    "tab": "キャラクター",
+    "category": "髪型",
+    "ja": "アップヘア",
+    "en": "updo",
+    "target": "positive",
+    "group": "髪型",
+    "weight": 1.0
+  },
+  {
+    "id": "p0056",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "ぱっつん",
+    "en": "blunt bangs",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0057",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "斜め前髪",
+    "en": "swept bangs",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0058",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "分けた前髪",
+    "en": "parted bangs",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0059",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "目にかかる前髪",
+    "en": "hair over eyes",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0060",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "片目隠れ",
+    "en": "hair over one eye",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0061",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "目の間の髪",
+    "en": "hair between eyes",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0062",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "長い前髪",
+    "en": "long bangs",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0063",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "短い前髪",
+    "en": "short bangs",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0064",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "アホ毛",
+    "en": "ahoge",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0065",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "触角髪",
+    "en": "antenna hair",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0066",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "横髪",
+    "en": "sidelocks",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0067",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "後れ毛",
+    "en": "hair strands",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0068",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "風になびく髪",
+    "en": "windblown hair",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0069",
+    "tab": "キャラクター",
+    "category": "前髪・毛束",
+    "ja": "濡れ髪",
+    "en": "wet hair",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0070",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "青い瞳",
+    "en": "blue eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0071",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "赤い瞳",
+    "en": "red eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0072",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "緑の瞳",
+    "en": "green eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0073",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "茶色の瞳",
+    "en": "brown eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0074",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "金色の瞳",
+    "en": "golden eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0075",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "紫の瞳",
+    "en": "purple eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0076",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "ピンクの瞳",
+    "en": "pink eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0077",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "灰色の瞳",
+    "en": "grey eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0078",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "黒い瞳",
+    "en": "black eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0079",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "水色の瞳",
+    "en": "light blue eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0080",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "琥珀の瞳",
+    "en": "amber eyes",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0081",
+    "tab": "キャラクター",
+    "category": "瞳色",
+    "ja": "オッドアイ",
+    "en": "heterochromia",
+    "target": "positive",
+    "group": "瞳色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0082",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "つり目",
+    "en": "tsurime",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0083",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "たれ目",
+    "en": "tareme",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0084",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "半目",
+    "en": "half-closed eyes",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0085",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "閉じた目",
+    "en": "closed eyes",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0086",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "ウインク",
+    "en": "one eye closed",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0087",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "見開いた目",
+    "en": "wide-eyed",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0088",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "輝く瞳",
+    "en": "sparkling eyes",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0089",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "ハイライトなし",
+    "en": "empty eyes",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0090",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "縦長瞳孔",
+    "en": "slit pupils",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0091",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "星型瞳孔",
+    "en": "star-shaped pupils",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0092",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "ハート瞳",
+    "en": "heart-shaped pupils",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0093",
+    "tab": "キャラクター",
+    "category": "目の表現",
+    "ja": "長いまつげ",
+    "en": "eyelashes",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0094",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "笑顔",
+    "en": "smile",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0095",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "満面の笑顔",
+    "en": "grin",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0096",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "穏やかな笑顔",
+    "en": "gentle smile",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0097",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "口を開けた笑顔",
+    "en": "open-mouth smile",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0098",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "真剣",
+    "en": "serious",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0099",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "無表情",
+    "en": "expressionless",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0100",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "悲しい",
+    "en": "sad",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0101",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "泣く",
+    "en": "crying",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0102",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "涙",
+    "en": "tears",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0103",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "怒る",
+    "en": "angry",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0104",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "むっとする",
+    "en": "pout",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0105",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "驚く",
+    "en": "surprised",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0106",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "恥ずかしがる",
+    "en": "embarrassed",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0107",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "赤面",
+    "en": "blush",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0108",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "困惑",
+    "en": "confused",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0109",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "眠そう",
+    "en": "sleepy",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0110",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "自信のある笑み",
+    "en": "smirk",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0111",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "怖がる",
+    "en": "scared",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0112",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "考え込む",
+    "en": "thinking",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0113",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "決意",
+    "en": "determined",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0114",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "退屈",
+    "en": "bored",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0115",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "はにかむ",
+    "en": "shy",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0116",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "笑う",
+    "en": "laughing",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0117",
+    "tab": "キャラクター",
+    "category": "表情",
+    "ja": "不安",
+    "en": "worried",
+    "target": "positive",
+    "group": "表情",
+    "weight": 1.0
+  },
+  {
+    "id": "p0118",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "口を閉じる",
+    "en": "closed mouth",
+    "target": "positive",
+    "group": "口",
+    "weight": 1.0
+  },
+  {
+    "id": "p0119",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "口を開ける",
+    "en": "open mouth",
+    "target": "positive",
+    "group": "口",
+    "weight": 1.0
+  },
+  {
+    "id": "p0120",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "小さな口",
+    "en": "small mouth",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0121",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "牙",
+    "en": "fang",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0122",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "上の歯",
+    "en": "upper teeth",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0123",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "ほくろ",
+    "en": "mole",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0124",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "目元のほくろ",
+    "en": "mole under eye",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0125",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "そばかす",
+    "en": "freckles",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0126",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "えくぼ",
+    "en": "dimples",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0127",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "口紅",
+    "en": "lipstick",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0128",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "薄化粧",
+    "en": "light makeup",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0129",
+    "tab": "キャラクター",
+    "category": "口・顔",
+    "ja": "アイシャドウ",
+    "en": "eyeshadow",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0130",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "色白",
+    "en": "pale skin",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0131",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "褐色肌",
+    "en": "dark skin",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0132",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "日焼け",
+    "en": "tan",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0133",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "尖った耳",
+    "en": "pointy ears",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0134",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "エルフ",
+    "en": "elf",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0135",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "猫耳",
+    "en": "cat ears",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0136",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "狐耳",
+    "en": "fox ears",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0137",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "兎耳",
+    "en": "rabbit ears",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0138",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "犬耳",
+    "en": "dog ears",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0139",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "角",
+    "en": "horns",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0140",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "小さな角",
+    "en": "small horns",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0141",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "天使の輪",
+    "en": "halo",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0142",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "天使の翼",
+    "en": "angel wings",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0143",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "悪魔の翼",
+    "en": "demon wings",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0144",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "妖精の翼",
+    "en": "fairy wings",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0145",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "猫の尻尾",
+    "en": "cat tail",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0146",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "狐の尻尾",
+    "en": "fox tail",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0147",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "悪魔の尻尾",
+    "en": "demon tail",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0148",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "義手",
+    "en": "prosthetic arm",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0149",
+    "tab": "キャラクター",
+    "category": "特徴",
+    "ja": "眼帯",
+    "en": "eyepatch",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0150",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "シャツ",
+    "en": "shirt",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0151",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "白シャツ",
+    "en": "white shirt",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0152",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ブラウス",
+    "en": "blouse",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0153",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "フリルブラウス",
+    "en": "frilled shirt",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0154",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "Tシャツ",
+    "en": "t-shirt",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0155",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ポロシャツ",
+    "en": "polo shirt",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0156",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "セーター",
+    "en": "sweater",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0157",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "タートルネック",
+    "en": "turtleneck",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0158",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "カーディガン",
+    "en": "cardigan",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0159",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "パーカー",
+    "en": "hoodie",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0160",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ジャケット",
+    "en": "jacket",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0161",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ブレザー",
+    "en": "blazer",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0162",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "デニムジャケット",
+    "en": "denim jacket",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0163",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "革ジャケット",
+    "en": "leather jacket",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0164",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "コート",
+    "en": "coat",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0165",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ロングコート",
+    "en": "long coat",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0166",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "トレンチコート",
+    "en": "trench coat",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0167",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ケープ",
+    "en": "cape",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0168",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ポンチョ",
+    "en": "poncho",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0169",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ベスト",
+    "en": "vest",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0170",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "チュニック",
+    "en": "tunic",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0171",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ワンピース",
+    "en": "dress",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0172",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "サマードレス",
+    "en": "sundress",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0173",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ロングドレス",
+    "en": "long dress",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0174",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "イブニングドレス",
+    "en": "evening gown",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0175",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "セーターワンピース",
+    "en": "sweater dress",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0176",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "エプロンドレス",
+    "en": "apron dress",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0177",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "オーバーオール",
+    "en": "overalls",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0178",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "サロペット",
+    "en": "pinafore dress",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0179",
+    "tab": "衣装",
+    "category": "基本服",
+    "ja": "ジャンプスーツ",
+    "en": "jumpsuit",
+    "target": "positive",
+    "group": "基本服",
+    "weight": 1.0
+  },
+  {
+    "id": "p0180",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "セーラー服",
+    "en": "serafuku",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0181",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "ブレザー制服",
+    "en": "school uniform",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0182",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "メイド服",
+    "en": "maid",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0183",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "巫女服",
+    "en": "miko",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0184",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "着物",
+    "en": "kimono",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0185",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "浴衣",
+    "en": "yukata",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0186",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "袴",
+    "en": "hakama",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0187",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "チャイナドレス",
+    "en": "china dress",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0188",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "ルームウェア",
+    "en": "pajamas",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0189",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "騎士鎧",
+    "en": "armor",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0190",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "魔女服",
+    "en": "witch",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0191",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "魔法使いローブ",
+    "en": "robe",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0192",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "シスター服",
+    "en": "nun",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0193",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "看護師服",
+    "en": "nurse",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0194",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "警察制服",
+    "en": "police uniform",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0195",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "軍服",
+    "en": "military uniform",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0196",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "宇宙服",
+    "en": "space suit",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0197",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "パイロットスーツ",
+    "en": "pilot suit",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0198",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "アイドル衣装",
+    "en": "idol clothes",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0199",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "ステージ衣装",
+    "en": "stage clothes",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0200",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "スポーツウェア",
+    "en": "sportswear",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0201",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "ジャージ",
+    "en": "track suit",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0202",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "テニスウェア",
+    "en": "tennis uniform",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0203",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "チア衣装",
+    "en": "cheerleader",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0204",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "バレエ衣装",
+    "en": "ballet outfit",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0205",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "和風衣装",
+    "en": "japanese clothes",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0206",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "ゴシック服",
+    "en": "gothic",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0207",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "ロリータ服",
+    "en": "lolita fashion",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0208",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "海賊衣装",
+    "en": "pirate",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0209",
+    "tab": "衣装",
+    "category": "テーマ衣装",
+    "ja": "探偵衣装",
+    "en": "detective",
+    "target": "positive",
+    "group": "テーマ衣装",
+    "weight": 1.0
+  },
+  {
+    "id": "p0210",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "スカート",
+    "en": "skirt",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0211",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "プリーツスカート",
+    "en": "pleated skirt",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0212",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "ロングスカート",
+    "en": "long skirt",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0213",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "フレアスカート",
+    "en": "flared skirt",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0214",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "タイトスカート",
+    "en": "pencil skirt",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0215",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "チェック柄スカート",
+    "en": "plaid skirt",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0216",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "パンツ",
+    "en": "pants",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0217",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "ジーンズ",
+    "en": "jeans",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0218",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "ショートパンツ",
+    "en": "shorts",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0219",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "キュロット",
+    "en": "culottes",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0220",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "レギンス",
+    "en": "leggings",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0221",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "ワイドパンツ",
+    "en": "wide-leg pants",
+    "target": "positive",
+    "group": "ボトムス",
+    "weight": 1.0
+  },
+  {
+    "id": "p0222",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "リボン",
+    "en": "ribbon",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0223",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "フリル",
+    "en": "frills",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0224",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "レース",
+    "en": "lace",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0225",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "刺繍",
+    "en": "embroidery",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0226",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "花柄",
+    "en": "floral print",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0227",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "水玉",
+    "en": "polka dot",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0228",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "ストライプ",
+    "en": "striped clothes",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0229",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "チェック",
+    "en": "plaid",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0230",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "ニット",
+    "en": "knitwear",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0231",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "デニム",
+    "en": "denim",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0232",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "ベルベット",
+    "en": "velvet",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0233",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "サテン",
+    "en": "satin",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0234",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "毛皮飾り",
+    "en": "fur trim",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0235",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "金縁",
+    "en": "gold trim",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0236",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "ボタン",
+    "en": "buttons",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0237",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "ファスナー",
+    "en": "zipper",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0238",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "ベルト",
+    "en": "belt",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0239",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "コルセット",
+    "en": "corset",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0240",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "大きな袖",
+    "en": "wide sleeves",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0241",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "長袖",
+    "en": "long sleeves",
+    "target": "positive",
+    "group": "袖",
+    "weight": 1.0
+  },
+  {
+    "id": "p0242",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "半袖",
+    "en": "short sleeves",
+    "target": "positive",
+    "group": "袖",
+    "weight": 1.0
+  },
+  {
+    "id": "p0243",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "袖なし",
+    "en": "sleeveless",
+    "target": "positive",
+    "group": "袖",
+    "weight": 1.0
+  },
+  {
+    "id": "p0244",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "オフショルダー",
+    "en": "off shoulder",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0245",
+    "tab": "衣装",
+    "category": "装飾・素材",
+    "ja": "肩出し",
+    "en": "cutout shoulders",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0246",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "白い服",
+    "en": "white clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0247",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "黒い服",
+    "en": "black clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0248",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "赤い服",
+    "en": "red clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0249",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "青い服",
+    "en": "blue clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0250",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "緑の服",
+    "en": "green clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0251",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "黄色い服",
+    "en": "yellow clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0252",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "紫の服",
+    "en": "purple clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0253",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "ピンクの服",
+    "en": "pink clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0254",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "茶色い服",
+    "en": "brown clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0255",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "灰色の服",
+    "en": "grey clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0256",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "ベージュの服",
+    "en": "beige clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0257",
+    "tab": "衣装",
+    "category": "服の色",
+    "ja": "紺色の服",
+    "en": "navy blue clothes",
+    "target": "positive",
+    "group": "服の色",
+    "weight": 1.0
+  },
+  {
+    "id": "p0258",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "ローファー",
+    "en": "loafers",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0259",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "スニーカー",
+    "en": "sneakers",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0260",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "ブーツ",
+    "en": "boots",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0261",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "アンクルブーツ",
+    "en": "ankle boots",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0262",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "ロングブーツ",
+    "en": "knee boots",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0263",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "ハイヒール",
+    "en": "high heels",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0264",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "サンダル",
+    "en": "sandals",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0265",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "メリージェーン",
+    "en": "mary janes",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0266",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "バレエシューズ",
+    "en": "ballet slippers",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0267",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "下駄",
+    "en": "geta",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0268",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "草履",
+    "en": "zouri",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0269",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "裸足",
+    "en": "barefoot",
+    "target": "positive",
+    "group": "履物",
+    "weight": 1.0
+  },
+  {
+    "id": "p0270",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "靴下",
+    "en": "socks",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0271",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "ニーハイ",
+    "en": "thighhighs",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0272",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "ハイソックス",
+    "en": "kneehighs",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0273",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "タイツ",
+    "en": "pantyhose",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0274",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "白タイツ",
+    "en": "white pantyhose",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0275",
+    "tab": "衣装",
+    "category": "靴・靴下",
+    "ja": "黒タイツ",
+    "en": "black pantyhose",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0276",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "眼鏡",
+    "en": "glasses",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0277",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "丸眼鏡",
+    "en": "round eyewear",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0278",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "赤縁眼鏡",
+    "en": "red-framed eyewear",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0279",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "サングラス",
+    "en": "sunglasses",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0280",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "ヘアピン",
+    "en": "hairclip",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0281",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "髪リボン",
+    "en": "hair ribbon",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0282",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "花の髪飾り",
+    "en": "hair flower",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0283",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "カチューシャ",
+    "en": "hairband",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0284",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "シュシュ",
+    "en": "scrunchie",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0285",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "ティアラ",
+    "en": "tiara",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0286",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "王冠",
+    "en": "crown",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0287",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "ベレー帽",
+    "en": "beret",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0288",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "麦わら帽子",
+    "en": "straw hat",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0289",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "キャップ",
+    "en": "baseball cap",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0290",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "魔女帽子",
+    "en": "witch hat",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0291",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "ニット帽",
+    "en": "beanie",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0292",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "フード",
+    "en": "hood",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0293",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "ヘッドホン",
+    "en": "headphones",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0294",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "イヤリング",
+    "en": "earrings",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0295",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "ネックレス",
+    "en": "necklace",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0296",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "チョーカー",
+    "en": "choker",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0297",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "ブレスレット",
+    "en": "bracelet",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0298",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "腕時計",
+    "en": "wristwatch",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0299",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "手袋",
+    "en": "gloves",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0300",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "マフラー",
+    "en": "scarf",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0301",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "ネクタイ",
+    "en": "necktie",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0302",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "蝶ネクタイ",
+    "en": "bowtie",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0303",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "ブローチ",
+    "en": "brooch",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0304",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "肩掛けバッグ",
+    "en": "shoulder bag",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0305",
+    "tab": "衣装",
+    "category": "アクセサリー",
+    "ja": "リュック",
+    "en": "backpack",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0306",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "立つ",
+    "en": "standing",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0307",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "座る",
+    "en": "sitting",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0308",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "膝立ち",
+    "en": "kneeling",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0309",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "しゃがむ",
+    "en": "squatting",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0310",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "横たわる",
+    "en": "lying",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0311",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "仰向け",
+    "en": "on back",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0312",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "横向きに寝る",
+    "en": "on side",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0313",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "うつ伏せ",
+    "en": "on stomach",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0314",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "歩く",
+    "en": "walking",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0315",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "走る",
+    "en": "running",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0316",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "跳ぶ",
+    "en": "jumping",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0317",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "踊る",
+    "en": "dancing",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0318",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "浮遊",
+    "en": "floating",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0319",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "寄りかかる",
+    "en": "leaning",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0320",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "前かがみ",
+    "en": "leaning forward",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0321",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "伸びをする",
+    "en": "stretching",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0322",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "振り向く",
+    "en": "looking back",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0323",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "片足立ち",
+    "en": "standing on one leg",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0
+  },
+  {
+    "id": "p0324",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "手を後ろに",
+    "en": "arms behind back",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0325",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "ポケットに手",
+    "en": "hands in pockets",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0326",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "腕組み",
+    "en": "crossed arms",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0327",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "腰に手",
+    "en": "hands on hips",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0328",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "腕を上げる",
+    "en": "arms up",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0329",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "片腕を上げる",
+    "en": "one arm up",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0330",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "手を振る",
+    "en": "waving",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0331",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "ピース",
+    "en": "v",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0332",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "指差し",
+    "en": "pointing",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0333",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "頬杖",
+    "en": "hand on own cheek",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0334",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "胸元に手",
+    "en": "hand on own chest",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0335",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "髪に触れる",
+    "en": "hand in own hair",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0336",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "帽子に触れる",
+    "en": "holding hat",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0337",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "両手を合わせる",
+    "en": "own hands together",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0338",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "手を伸ばす",
+    "en": "reaching out",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0339",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "袖に隠れた手",
+    "en": "hands in sleeves",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0340",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "膝に手",
+    "en": "hands on own knees",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0341",
+    "tab": "ポーズ・構図",
+    "category": "手・腕",
+    "ja": "顔の近くに手",
+    "en": "hand near own face",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0342",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "本を持つ",
+    "en": "holding book",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0343",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "傘を持つ",
+    "en": "holding umbrella",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0344",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "花を持つ",
+    "en": "holding flower",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0345",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "カップを持つ",
+    "en": "holding cup",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0346",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "剣を持つ",
+    "en": "holding sword",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0347",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "杖を持つ",
+    "en": "holding staff",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0348",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "バッグを持つ",
+    "en": "holding bag",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0349",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "スマホを持つ",
+    "en": "holding phone",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0350",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "ぬいぐるみを持つ",
+    "en": "holding stuffed toy",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0351",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "扇子を持つ",
+    "en": "holding fan",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0352",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "ランタンを持つ",
+    "en": "holding lantern",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0353",
+    "tab": "ポーズ・構図",
+    "category": "持ち物",
+    "ja": "バスケットを持つ",
+    "en": "holding basket",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0354",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "顔のアップ",
+    "en": "close-up",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0355",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "ポートレート",
+    "en": "portrait",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0356",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "上半身",
+    "en": "upper body",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0357",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "腰上",
+    "en": "cowboy shot",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0358",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "全身",
+    "en": "full body",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0359",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "ワイド画角",
+    "en": "wide shot",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0360",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "遠景",
+    "en": "very wide shot",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0361",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "横顔",
+    "en": "profile",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0362",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "後ろ姿",
+    "en": "from behind",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0363",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "正面",
+    "en": "front view",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0364",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "斜め向き",
+    "en": "three-quarter view",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0365",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "見下ろし",
+    "en": "from above",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0366",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "あおり",
+    "en": "from below",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0367",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "真上",
+    "en": "overhead shot",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0368",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "傾いた構図",
+    "en": "dutch angle",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0369",
+    "tab": "ポーズ・構図",
+    "category": "画角",
+    "ja": "主観視点",
+    "en": "pov",
+    "target": "positive",
+    "group": "画角",
+    "weight": 1.0
+  },
+  {
+    "id": "p0370",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "こちらを見る",
+    "en": "looking at viewer",
+    "target": "positive",
+    "group": "視線",
+    "weight": 1.0
+  },
+  {
+    "id": "p0371",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "横を見る",
+    "en": "looking to the side",
+    "target": "positive",
+    "group": "視線",
+    "weight": 1.0
+  },
+  {
+    "id": "p0372",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "上を見る",
+    "en": "looking up",
+    "target": "positive",
+    "group": "視線",
+    "weight": 1.0
+  },
+  {
+    "id": "p0373",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "下を見る",
+    "en": "looking down",
+    "target": "positive",
+    "group": "視線",
+    "weight": 1.0
+  },
+  {
+    "id": "p0374",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "遠くを見る",
+    "en": "looking afar",
+    "target": "positive",
+    "group": "視線",
+    "weight": 1.0
+  },
+  {
+    "id": "p0375",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "目をそらす",
+    "en": "looking away",
+    "target": "positive",
+    "group": "視線",
+    "weight": 1.0
+  },
+  {
+    "id": "p0376",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "中央配置",
+    "en": "centered composition",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0377",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "左右対称",
+    "en": "symmetrical composition",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0378",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "三分割構図",
+    "en": "rule of thirds",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0379",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "余白",
+    "en": "negative space",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0380",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "左に人物",
+    "en": "subject on left",
+    "target": "positive",
+    "group": "配置",
+    "weight": 1.0
+  },
+  {
+    "id": "p0381",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "右に人物",
+    "en": "subject on right",
+    "target": "positive",
+    "group": "配置",
+    "weight": 1.0
+  },
+  {
+    "id": "p0382",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "対角構図",
+    "en": "diagonal composition",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0383",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "前景あり",
+    "en": "foreground",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0384",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "遠近感",
+    "en": "perspective",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0385",
+    "tab": "ポーズ・構図",
+    "category": "視線・配置",
+    "ja": "短縮遠近",
+    "en": "foreshortening",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0386",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "屋外",
+    "en": "outdoors",
+    "target": "positive",
+    "group": "室内外",
+    "weight": 1.0
+  },
+  {
+    "id": "p0387",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "屋内",
+    "en": "indoors",
+    "target": "positive",
+    "group": "室内外",
+    "weight": 1.0
+  },
+  {
+    "id": "p0388",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "庭",
+    "en": "garden",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0389",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "花畑",
+    "en": "flower field",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0390",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "薔薇園",
+    "en": "rose garden",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0391",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "ひまわり畑",
+    "en": "sunflower field",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0392",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "草原",
+    "en": "grassland",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0393",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "丘",
+    "en": "hill",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0394",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "森",
+    "en": "forest",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0395",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "竹林",
+    "en": "bamboo forest",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0396",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "桜並木",
+    "en": "cherry blossoms",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0397",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "山",
+    "en": "mountain",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0398",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "雪山",
+    "en": "snowy mountain",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0399",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "湖",
+    "en": "lake",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0400",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "川",
+    "en": "river",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0401",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "滝",
+    "en": "waterfall",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0402",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "海",
+    "en": "ocean",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0403",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "海岸",
+    "en": "beach",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0404",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "岩場",
+    "en": "rocky shore",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0405",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "島",
+    "en": "island",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0406",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "砂漠",
+    "en": "desert",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0407",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "オアシス",
+    "en": "oasis",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0408",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "街",
+    "en": "city",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0409",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "街路",
+    "en": "street",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0410",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "路地",
+    "en": "alley",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0411",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "商店街",
+    "en": "shopping street",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0412",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "交差点",
+    "en": "intersection",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0413",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "屋上",
+    "en": "rooftop",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0414",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "公園",
+    "en": "park",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0415",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "遊園地",
+    "en": "amusement park",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0416",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "観覧車",
+    "en": "ferris wheel",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0417",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "駅",
+    "en": "train station",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0418",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "電車内",
+    "en": "train interior",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0419",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "バス停",
+    "en": "bus stop",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0420",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "橋",
+    "en": "bridge",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0421",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "港",
+    "en": "harbor",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0422",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "灯台",
+    "en": "lighthouse",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0423",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "神社",
+    "en": "shrine",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0424",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "鳥居",
+    "en": "torii",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0425",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "寺",
+    "en": "temple",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0426",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "城",
+    "en": "castle",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0427",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "宮殿",
+    "en": "palace",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0428",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "教会",
+    "en": "church",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0429",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "大聖堂",
+    "en": "cathedral",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0430",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "遺跡",
+    "en": "ruins",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0431",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "洞窟",
+    "en": "cave",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0432",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "図書館",
+    "en": "library",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0433",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "本屋",
+    "en": "bookstore",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0434",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "カフェ",
+    "en": "cafe",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0435",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "レストラン",
+    "en": "restaurant",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0436",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "キッチン",
+    "en": "kitchen",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0437",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "寝室",
+    "en": "bedroom",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0438",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "リビング",
+    "en": "living room",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0439",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "教室",
+    "en": "classroom",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0440",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "廊下",
+    "en": "hallway",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0441",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "美術館",
+    "en": "art museum",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0442",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "温室",
+    "en": "greenhouse",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0443",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "バルコニー",
+    "en": "balcony",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0444",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "階段",
+    "en": "stairs",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0445",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "舞台",
+    "en": "stage",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0446",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "宇宙",
+    "en": "space",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0447",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "星空",
+    "en": "starry sky",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0448",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "水中",
+    "en": "underwater",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0449",
+    "tab": "背景・雰囲気",
+    "category": "場所",
+    "ja": "水族館",
+    "en": "aquarium",
+    "target": "positive",
+    "group": "場所",
+    "weight": 1.0
+  },
+  {
+    "id": "p0450",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "朝",
+    "en": "morning",
+    "target": "positive",
+    "group": "時間",
+    "weight": 1.0
+  },
+  {
+    "id": "p0451",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "昼",
+    "en": "day",
+    "target": "positive",
+    "group": "時間",
+    "weight": 1.0
+  },
+  {
+    "id": "p0452",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "夕方",
+    "en": "evening",
+    "target": "positive",
+    "group": "時間",
+    "weight": 1.0
+  },
+  {
+    "id": "p0453",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "夜",
+    "en": "night",
+    "target": "positive",
+    "group": "時間",
+    "weight": 1.0
+  },
+  {
+    "id": "p0454",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "夜明け",
+    "en": "dawn",
+    "target": "positive",
+    "group": "時間",
+    "weight": 1.0
+  },
+  {
+    "id": "p0455",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "夕焼け",
+    "en": "sunset",
+    "target": "positive",
+    "group": "時間",
+    "weight": 1.0
+  },
+  {
+    "id": "p0456",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "黄昏",
+    "en": "twilight",
+    "target": "positive",
+    "group": "時間",
+    "weight": 1.0
+  },
+  {
+    "id": "p0457",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "青空",
+    "en": "blue sky",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0458",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "曇り",
+    "en": "cloudy sky",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0459",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "雨",
+    "en": "rain",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0460",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "小雨",
+    "en": "light rain",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0461",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "雪",
+    "en": "snow",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0462",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "吹雪",
+    "en": "blizzard",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0463",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "霧",
+    "en": "fog",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0464",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "虹",
+    "en": "rainbow",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0465",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "雷",
+    "en": "lightning",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0466",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "春",
+    "en": "spring",
+    "target": "positive",
+    "group": "季節",
+    "weight": 1.0
+  },
+  {
+    "id": "p0467",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "夏",
+    "en": "summer",
+    "target": "positive",
+    "group": "季節",
+    "weight": 1.0
+  },
+  {
+    "id": "p0468",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "秋",
+    "en": "autumn",
+    "target": "positive",
+    "group": "季節",
+    "weight": 1.0
+  },
+  {
+    "id": "p0469",
+    "tab": "背景・雰囲気",
+    "category": "時間・天気",
+    "ja": "冬",
+    "en": "winter",
+    "target": "positive",
+    "group": "季節",
+    "weight": 1.0
+  },
+  {
+    "id": "p0470",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "自然光",
+    "en": "natural lighting",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0471",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "柔らかい光",
+    "en": "soft lighting",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0472",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "逆光",
+    "en": "backlighting",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0473",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "縁取り光",
+    "en": "rim light",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0474",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "木漏れ日",
+    "en": "dappled sunlight",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0475",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "日差し",
+    "en": "sunlight",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0476",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "月光",
+    "en": "moonlight",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0477",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "星明かり",
+    "en": "starlight",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0478",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "ろうそく光",
+    "en": "candlelight",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0479",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "ネオン光",
+    "en": "neon lights",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0480",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "スポットライト",
+    "en": "spotlight",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0481",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "ボリューム光",
+    "en": "volumetric lighting",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0482",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "光芒",
+    "en": "god rays",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0483",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "レンズフレア",
+    "en": "lens flare",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0484",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "ドラマチック光",
+    "en": "dramatic lighting",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0485",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "ハイキー",
+    "en": "high key",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0486",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "ローキー",
+    "en": "low key",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0487",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "暖色光",
+    "en": "warm lighting",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0488",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "寒色光",
+    "en": "cool lighting",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0489",
+    "tab": "背景・雰囲気",
+    "category": "光",
+    "ja": "反射光",
+    "en": "reflected light",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0490",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "花びら",
+    "en": "petals",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0491",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "舞う花びら",
+    "en": "falling petals",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0492",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "舞う葉",
+    "en": "falling leaves",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0493",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "紅葉",
+    "en": "autumn leaves",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0494",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "蛍",
+    "en": "fireflies",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0495",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "蝶",
+    "en": "butterfly",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0496",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "鳥",
+    "en": "bird",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0497",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "泡",
+    "en": "bubbles",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0498",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "水しぶき",
+    "en": "splashing",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0499",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "水滴",
+    "en": "water drops",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0500",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "きらめき",
+    "en": "sparkles",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0501",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "光の粒",
+    "en": "light particles",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0502",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "塵",
+    "en": "dust particles",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0503",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "煙",
+    "en": "smoke",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0504",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "雲",
+    "en": "cloud",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0505",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "満月",
+    "en": "full moon",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0506",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "流れ星",
+    "en": "shooting star",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0507",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "オーロラ",
+    "en": "aurora",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0508",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "魔法陣",
+    "en": "magic circle",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0509",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "結晶",
+    "en": "crystal",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0510",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "廃墟都市",
+    "en": "ruined city",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0511",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "浮島",
+    "en": "floating island",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0512",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "幻想的",
+    "en": "fantasy",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0513",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "夢のような",
+    "en": "dreamlike",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0514",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "静かな",
+    "en": "serene",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0515",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "神秘的",
+    "en": "mysterious",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0516",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "ノスタルジック",
+    "en": "nostalgic",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0517",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "ロマンチック",
+    "en": "romantic",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0518",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "壮大",
+    "en": "epic",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0519",
+    "tab": "背景・雰囲気",
+    "category": "演出",
+    "ja": "爽やか",
+    "en": "refreshing",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0520",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "最高傑作",
+    "en": "masterpiece",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0521",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "最高品質",
+    "en": "best quality",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0522",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "非常に美的",
+    "en": "very aesthetic",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0523",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "超高解像度",
+    "en": "absurdres",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0524",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "高解像度",
+    "en": "highres",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0525",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "緻密な背景",
+    "en": "detailed background",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0526",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "シンプル背景",
+    "en": "simple background",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0527",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "白背景",
+    "en": "white background",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0528",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "黒背景",
+    "en": "black background",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0529",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "ぼかした背景",
+    "en": "blurry background",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0530",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "被写界深度",
+    "en": "depth of field",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0531",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "ボケ",
+    "en": "bokeh",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0532",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "アニメ塗り",
+    "en": "anime coloring",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0533",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "セル塗り",
+    "en": "cel shading",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0534",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "柔らかい塗り",
+    "en": "soft shading",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0535",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "厚塗り",
+    "en": "painterly",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0536",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "水彩",
+    "en": "watercolor",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0537",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "油彩",
+    "en": "oil painting",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0538",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "鉛筆画",
+    "en": "pencil drawing",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0539",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "線画",
+    "en": "lineart",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0540",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "スケッチ",
+    "en": "sketch",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0541",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "モノクロ",
+    "en": "monochrome",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0542",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "セピア",
+    "en": "sepia",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0543",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "パステル色",
+    "en": "pastel colors",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0544",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "鮮やか",
+    "en": "vibrant colors",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0545",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "低彩度",
+    "en": "muted colors",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0546",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "高コントラスト",
+    "en": "high contrast",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0547",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "輪郭線なし",
+    "en": "no lineart",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0548",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "細い輪郭線",
+    "en": "thin lines",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0549",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "ピクセルアート",
+    "en": "pixel art",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0550",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "低解像度",
+    "en": "lowres",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0551",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "最低品質",
+    "en": "worst quality",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0552",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "低品質",
+    "en": "low quality",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0553",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "文字",
+    "en": "text",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0554",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "透かし",
+    "en": "watermark",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0555",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "署名",
+    "en": "signature",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0556",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "ユーザー名",
+    "en": "username",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0557",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "JPEG劣化",
+    "en": "jpeg artifacts",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0558",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "ぼやけ",
+    "en": "blurry",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0559",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "解剖の破綻",
+    "en": "bad anatomy",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0560",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "手の破綻",
+    "en": "bad hands",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0561",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "余分な指",
+    "en": "extra digits",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0562",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "指不足",
+    "en": "missing fingers",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0563",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "余分な腕",
+    "en": "extra arms",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0564",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "余分な脚",
+    "en": "extra legs",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0565",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "融合した指",
+    "en": "fused fingers",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0566",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "変形",
+    "en": "deformed",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0567",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "未完成",
+    "en": "unfinished",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0568",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "切れた構図",
+    "en": "cropped",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0569",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "画面外",
+    "en": "out of frame",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0570",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "複製",
+    "en": "duplicate",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0571",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "色収差",
+    "en": "chromatic aberration",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0572",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "スキャン",
+    "en": "scan",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0573",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "古い画風",
+    "en": "oldest",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0574",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "不快な品質",
+    "en": "displeasing",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0575",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "作画ミス",
+    "en": "artistic error",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0576",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "成人向け",
+    "en": "nsfw",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0577",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "写実的",
+    "en": "realistic",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0578",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "写真",
+    "en": "photo",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "p0579",
+    "tab": "画質・生成設定",
+    "category": "ネガティブ",
+    "ja": "3D",
+    "en": "3d",
+    "target": "negative",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v11_positive_nsfw",
+    "tab": "画質・生成設定",
+    "category": "NSFW",
+    "ja": "成人向け（nsfw）",
+    "en": "nsfw",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0,
+    "randomizable": false
+  },
+  {
+    "id": "builtin_v11_panties",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "ショーツ",
+    "en": "panties",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0,
+    "randomizable": true
+  },
+  {
+    "id": "builtin_v11_camisole",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "キャミソール",
+    "en": "camisole",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0,
+    "randomizable": true
+  },
+  {
+    "id": "builtin_v11_lace_panties",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "レース付きショーツ",
+    "en": "lace-trimmed panties",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0,
+    "randomizable": true
+  },
+  {
+    "id": "builtin_v11_lace_camisole",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "レース付きキャミソール",
+    "en": "lace-trimmed camisole",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0,
+    "randomizable": true
+  },
+  {
+    "id": "builtin_v11_silk_camisole",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "シルクのキャミソール",
+    "en": "silk camisole",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0,
+    "randomizable": true
+  },
+  {
+    "id": "builtin_v11_camisole_panties",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "キャミソール＋ショーツ",
+    "en": "camisole, panties",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0,
+    "randomizable": true
+  },
+  {
+    "id": "builtin_v12_age_early20s",
+    "tab": "キャラクター",
+    "category": "年齢",
+    "ja": "20代前半",
+    "en": "early 20s",
+    "target": "positive",
+    "group": "年齢",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_age_late20s",
+    "tab": "キャラクター",
+    "category": "年齢",
+    "ja": "20代後半",
+    "en": "late 20s",
+    "target": "positive",
+    "group": "年齢",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_age_30s",
+    "tab": "キャラクター",
+    "category": "年齢",
+    "ja": "30代",
+    "en": "30s",
+    "target": "positive",
+    "group": "年齢",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_height_petite",
+    "tab": "キャラクター",
+    "category": "身長",
+    "ja": "小柄",
+    "en": "petite",
+    "target": "positive",
+    "group": "身長",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_height_average",
+    "tab": "キャラクター",
+    "category": "身長",
+    "ja": "標準",
+    "en": "average height",
+    "target": "positive",
+    "group": "身長",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_height_tall",
+    "tab": "キャラクター",
+    "category": "身長",
+    "ja": "長身",
+    "en": "tall woman",
+    "target": "positive",
+    "group": "身長",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_body_slim",
+    "tab": "キャラクター",
+    "category": "体型",
+    "ja": "スリム",
+    "en": "slim body",
+    "target": "positive",
+    "group": "体型",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_body_average",
+    "tab": "キャラクター",
+    "category": "体型",
+    "ja": "標準",
+    "en": "average body",
+    "target": "positive",
+    "group": "体型",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_body_curvy",
+    "tab": "キャラクター",
+    "category": "体型",
+    "ja": "グラマー",
+    "en": "curvy body",
+    "target": "positive",
+    "group": "体型",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_bust_small",
+    "tab": "キャラクター",
+    "category": "バストサイズ",
+    "ja": "小さめ",
+    "en": "small breasts",
+    "target": "positive",
+    "group": "バストサイズ",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_bust_medium",
+    "tab": "キャラクター",
+    "category": "バストサイズ",
+    "ja": "標準",
+    "en": "medium breasts",
+    "target": "positive",
+    "group": "バストサイズ",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_bust_large",
+    "tab": "キャラクター",
+    "category": "バストサイズ",
+    "ja": "大きめ",
+    "en": "large breasts",
+    "target": "positive",
+    "group": "バストサイズ",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_hair_black_pink",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "黒からピンクのグラデーション",
+    "en": "black hair, pink hair tips, gradient hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_hair_black_purple",
+    "tab": "キャラクター",
+    "category": "髪色",
+    "ja": "黒から紫のグラデーション",
+    "en": "black hair, purple hair tips, gradient hair",
+    "target": "positive",
+    "group": "髪色",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_sheer_camisole",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "シースルーキャミソール",
+    "en": "sheer camisole",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_sheer_lace_camisole",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "レース付きシースルーキャミソール",
+    "en": "sheer lace camisole",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_floral_lace_camisole",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "花柄レースのキャミソール",
+    "en": "floral lace camisole",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_lace_panties",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "レースのショーツ",
+    "en": "lace panties",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_floral_lace_panties",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "花柄レースのショーツ",
+    "en": "floral lace panties",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_frilled_panties",
+    "tab": "衣装",
+    "category": "インナー",
+    "ja": "フリル付きショーツ",
+    "en": "frilled panties",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_micro_miniskirt",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "スーパーミニスカート",
+    "en": "micro miniskirt",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_pleated_micro_miniskirt",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "プリーツのスーパーミニ",
+    "en": "pleated micro miniskirt",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_tight_micro_miniskirt",
+    "tab": "衣装",
+    "category": "ボトムス",
+    "ja": "タイトなスーパーミニ",
+    "en": "tight micro miniskirt",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v12_anime_style",
+    "tab": "画質・生成設定",
+    "category": "画風・品質",
+    "ja": "アニメスタイル",
+    "en": "anime style",
+    "target": "positive",
+    "group": "",
+    "weight": 1.0
+  },
+  {
+    "id": "builtin_v14_age_teens",
+    "tab": "キャラクター",
+    "category": "年齢",
+    "ja": "10代",
+    "en": "teenage",
+    "target": "positive",
+    "group": "年齢",
+    "weight": 1.0,
+    "randomizable": false
+  },
+  {
+    "id": "builtin_v14_all_fours",
+    "tab": "ポーズ・構図",
+    "category": "姿勢",
+    "ja": "四つん這い",
+    "en": "all fours",
+    "target": "positive",
+    "group": "姿勢",
+    "weight": 1.0,
+    "randomizable": true
+  }
+]
